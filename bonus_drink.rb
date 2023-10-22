@@ -1,4 +1,4 @@
-def calculate_total_bottles(initial_bottles)
+def BonusDrink(initial_bottles)
   total_bottles = initial_bottles
   while initial_bottles >= 3
     free_bottles = initial_bottles / 3
